@@ -14,7 +14,7 @@ void binary(int n)
 {
 	if (n > 0)
 	{
-		binary(n/2);
+		binary(n/2);//wwww
 		printf("%d",n%2);
 	}
 }
